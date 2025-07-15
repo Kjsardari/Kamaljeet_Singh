@@ -10,8 +10,9 @@ About Myself
 - 🧠 Fun fact: I love debugging as much as designing!
 
 ### 🌐 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kamaljeet-singh-574867294/))
-[![Instagram]([https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-profile](https://www.instagram.com/kjs_sardari/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamaljeet-singh-574867294/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kjs_sardari/)
+
 
 ### 🚀 Languages and Tools:
 <p>
@@ -26,5 +27,5 @@ About Myself
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaljeet-singh&theme=radical" width="47%" />
 
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamaljeet-singh&theme=react-dark)
+
 
