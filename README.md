@@ -5,14 +5,13 @@ About Myself
 
 - 🔭 I’m currently working on **Fall Detection AI Project**
 - 🌱 I’m learning **Deep Learning, TensorFlow, ReactJS**
-- 💬 Ask me about **Python, AI, Web Dev, UI/UX**
-- 📫 How to reach me: **kamaljeet@example.com**
+- 💬 Ask me about **Python, AI, Web Dev, UI/UX, HTML, CSS, JavaScript**
+- 📫 How to reach me: **jattkjs@gmail.com**
 - 🧠 Fun fact: I love debugging as much as designing!
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kamaljeet-singh-574867294/))
+[![Instagram]([https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-profile](https://www.instagram.com/kjs_sardari/))
 
 ### 🚀 Languages and Tools:
 <p>
@@ -22,4 +21,10 @@ About Myself
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaljeet-singh&show_icons=true&theme=radical" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaljeet-singh&theme=radical" width="47%" />
+
 </p>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamaljeet-singh&theme=react-dark)
+
